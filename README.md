@@ -1,18 +1,25 @@
 ## Installation
 
-### Install nodejs
+1. Install nodejs
 http://nodejs.org/download/
 
-### Install compass 
+1. Install compass 
 ```
 gem update --system
 gem install compass
 ```
 
-### Install grunt
+1. Install grunt
+```
 npm install -g grunt-cli
+```
 
-### Clone the repo and install packages
+1. Install HAML
+```
+gem install haml
+```
+
+1. Clone the repo and install packages
 ```
 git clone https://github.com/dbrans/haml_test
 cd haml_test
